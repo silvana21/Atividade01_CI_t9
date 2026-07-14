@@ -186,20 +186,24 @@ footer {
 @media (max-width: 768px) {
 
     header h1 {
-        font-size: 32px;
+        font-size: 2rem;
     }
 
     .hero h2 {
-        font-size: 28px;
+        font-size: 1.75rem;
     }
 
-    nav ul li {
-        display: block;
-        margin: 12px 0;
+    nav ul {
+        display: flex;
+        flex-direction: column;
+        gap: 12px;
+        padding: 0;
+        margin: 0;
     }
 
     .card {
         width: 100%;
+        box-sizing: border-box;
     }
 
 }
