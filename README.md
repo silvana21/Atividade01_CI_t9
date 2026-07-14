@@ -68,6 +68,16 @@ Ao final da atividade os participantes deverão compreender:
 
 ---
 
+## Como executar o projeto
+
+Para executar o projeto devemos seguir os seguintes passos:
+
+1. Clonar o repositório
+2. Abrir index.html
+3. Visualizar no navegador
+
+---
+
 ## Licença
 
 Este projeto está disponível sob a licença MIT.
